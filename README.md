@@ -1,11 +1,7 @@
-### Hi there 👋
-
-I'm Eugene, tech enthusiast and full stack web developer.
-
 ## Skills :muscle:
 Here are some of the major technologies I use or have worked on in the past:
 
-**Languages**
+**Programming Languages (and not very)**
 
 <img title="TypeScript" alt="TypeScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />|<img alt="PHP" title="PHP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">|<img title="CSS3" alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>|<img title="HTML5" alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 |--|--|--|--|--|--|
@@ -18,7 +14,13 @@ Here are some of the major technologies I use or have worked on in the past:
 
 **Databases**
 
-	@@ -47,10 +27,8 @@ raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg
+<img title="PostgreSQL"  alt="PostgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>|<img title="Redis" alt="Redis" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">|<img title="MySQL"  alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+|--|--|--|--|
+
+**Cloud**
+
+<img title="Firebase" alt="Firebase" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/>|
+|--|
 
 **Tools**
 
