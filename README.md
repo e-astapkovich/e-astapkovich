@@ -1,4 +1,4 @@
-## Skills :muscle:
+<!-- ## Skills :muscle:
 Here are some of the major technologies I use or have worked on in the past:
 
 **Programming Languages (and not very)**
@@ -25,7 +25,7 @@ Here are some of the major technologies I use or have worked on in the past:
 **Tools**
 
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="NodeJS" alt="NodeJS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">|<img title="VSCode" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">|<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">|<img title="SSH" alt="SSH" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg">
-|--|--|--|--|--|--|
+|--|--|--|--|--|--| -->
 
 <!--
 **e-astapkovich/e-astapkovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
