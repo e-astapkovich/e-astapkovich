@@ -1,3 +1,7 @@
+### Hi there 👋
+
+I'm Eugene, full stack web developer.
+
 <!-- ## Skills :muscle:
 Here are some of the major technologies I use or have worked on in the past:
 
