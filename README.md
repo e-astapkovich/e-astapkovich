@@ -1,7 +1,8 @@
-**Hi there** :wave:
+### Hi there** :wave:
+
 I'm Eugene, yet another fullstack web developer =)
 
-#### My skills :muscle:
+### My skills :muscle:
 Here are some of the major technologies I use or have worked on in the past:
 
 **Languages**
