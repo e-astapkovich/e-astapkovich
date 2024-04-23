@@ -1,4 +1,4 @@
-### Hi there** :wave:
+### Hi there :wave:
 
 I'm Eugene, yet another fullstack web developer =)
 
