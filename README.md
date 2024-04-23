@@ -12,7 +12,7 @@ Here are some of the major technologies I use or have worked on in the past:
 
 **Frameworks and Libraries**
 
-<img title="Laravel" alt="Laravel" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line-wordmark.svg"/>|<img title="PHPUnit" alt="PHPUnit" width="40" src="https://raw.githubusercontent.com/sebastianbergmann/phpunit-website/main/public/img/phpunit.svg"/>|
+<img title="Laravel" alt="Laravel" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg"/>|<img title="PHPUnit" alt="PHPUnit" width="40" src="https://raw.githubusercontent.com/sebastianbergmann/phpunit-website/main/public/img/phpunit.svg"/>|
 |--|--|
 
 **Databases**
