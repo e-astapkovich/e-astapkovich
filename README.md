@@ -22,6 +22,7 @@ Here are some of the major technologies I use or have worked on in the past:
 
 **Tools**
 
+<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">|<img title="Composer" alt="Composer" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">|<img title="NodeJS" alt="NodeJS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>|<img title="NPM" alt="NPM" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">|
 <img title="Vitejs" alt="Vitejs" width="40" src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg"/>|<img title="Webpack" alt="Webpack" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"/>|<img title="Babel" alt="Babel" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"/>|<img title="Sass" alt="Sass" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>|<img title="Trello" alt="Trello" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
 |--|--|--|--|--|
 
