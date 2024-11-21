@@ -1,17 +1,13 @@
 Привет! Я Евгений, backend-разработчик.
-
-![Alt текст](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=e-astapkovich&theme=solarized)
-
+<!--![Alt текст](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=e-astapkovich&theme=solarized)-->
 <!--Here are some of the major technologies I use or have worked on in the past:-->
-<!--**Languages**-->
 Мой стек:
-
+<!--**Languages**-->
 <img title="PHP" alt="PHP" width="120" src="https://www.php.net/images/logos/new-php-logo.png"/>|<img alt="JS" title="JavaScript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">|<img title="HTML5" alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"/>|<img title="CSS3" alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"/>
 |--|--|--|--|
-
+<!--**Frameworks**-->
 |<img title="Laravel" alt="Laravel" width="120" src="https://github.com/laravel/art/blob/master/logo-lockup/4%20PNG/3%20RGB/1%20Full%20Color/laravel-logolockup-rgb-red.png"/>|<img title="PHPUnit" alt="PHPUnit" width="60" src="https://raw.githubusercontent.com/sebastianbergmann/phpunit-website/main/public/img/phpunit.svg"/>|
 |--|--|
-
 <!--**Databases**-->
 <img title="MySQL" alt="MySQL" width="120" src="https://raw.githubusercontent.com/e-astapkovich/e-astapkovich/master/mysql-logo-original-wordmark.svg"/>|<img title="PostgreSQL" alt="PostgreSQL" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>|<img title="Redis" alt="Redis" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">|
 |--|--|--|
