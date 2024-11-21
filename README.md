@@ -11,7 +11,8 @@
 <!--**Databases**-->
 <img title="PostgreSQL" alt="PostgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>|<img title="MySQL" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>|<img title="Redis" alt="Redis" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">|
 |--|--|--|
-Мои инстументы:
+
+Мои инструменты:
 
 |<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">|<img title="Composer" alt="Composer" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">|<img title="NodeJS" alt="NodeJS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"/>|<img title="NPM" alt="NPM" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">|
 | --- | --- | --- | --- | --- |
