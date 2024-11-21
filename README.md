@@ -1,8 +1,8 @@
-##### Привет!
-##### Я Евгений, backend-разработчик.
+#### Привет!
+#### Я Евгений, backend-разработчик.
 <!--![Alt текст](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=e-astapkovich&theme=solarized)-->
 <!--Here are some of the major technologies I use or have worked on in the past:-->
-###### Мой стек:
+##### Мой стек:
 <!--**Languages**-->
 <img title="PHP" alt="PHP" width="120" src="https://www.php.net/images/logos/new-php-logo.png"/>|<img alt="JS" title="JavaScript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">|<img title="HTML5" alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"/>|<img title="CSS3" alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"/>
 |--|--|--|--|
@@ -13,7 +13,7 @@
 <img title="MySQL" alt="MySQL" width="120" src="https://raw.githubusercontent.com/e-astapkovich/e-astapkovich/master/mysql-logo-original-wordmark.svg"/>|<img title="PostgreSQL" alt="PostgreSQL" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>|<img title="Redis" alt="Redis" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">|
 |--|--|--|
 
-###### Мои инструменты:
+##### Мои инструменты:
 
 |<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">|<img title="Composer" alt="Composer" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">|<img title="Postman" alt="Postman" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"/>|<img title="NPM" alt="NPM" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">|
 | --- | --- | --- | --- | --- |
