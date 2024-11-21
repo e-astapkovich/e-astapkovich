@@ -8,14 +8,10 @@
 <!--**Frameworks and Libraries**-->
 <img title="Laravel" alt="Laravel" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg"/>|<img title="PHPUnit" alt="PHPUnit" width="60" src="https://raw.githubusercontent.com/sebastianbergmann/phpunit-website/main/public/img/phpunit.svg"/>|
 |--|--|
-
-**Databases**
-
+<!--**Databases**-->
 <img title="PostgreSQL" alt="PostgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>|<img title="MySQL" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>|<img title="Redis" alt="Redis" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">|
 |--|--|--|
-
-**Tools**
-
+Мои инстументы:
 
 |<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">|<img title="Composer" alt="Composer" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">|<img title="NodeJS" alt="NodeJS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"/>|<img title="NPM" alt="NPM" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">|
 | --- | --- | --- | --- | --- |
@@ -41,4 +37,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=e-astapkovich&theme=onestar&title=-Stars,-Reviews&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=e-astapkovich&theme=onestar&title=-Stars,-Reviews&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)-->
