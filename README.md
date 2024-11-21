@@ -6,7 +6,7 @@
 <img title="PHP" alt="PHP" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">|<img title="HTML5" alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"/>|<img title="CSS3" alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"/>
 |--|--|--|--|
 <!--**Frameworks and Libraries**-->
-<img title="Laravel" alt="Laravel" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg"/><!--|<img title="Yii2" alt="Yii2" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original-wordmark.svg"/>-->|<img title="PHPUnit" alt="PHPUnit" width="60" src="https://raw.githubusercontent.com/sebastianbergmann/phpunit-website/main/public/img/phpunit.svg"/>|
+<img title="Laravel" alt="Laravel" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg"/>|<img title="PHPUnit" alt="PHPUnit" width="60" src="https://raw.githubusercontent.com/sebastianbergmann/phpunit-website/main/public/img/phpunit.svg"/>|
 |--|--|
 
 **Databases**
