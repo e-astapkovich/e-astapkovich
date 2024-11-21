@@ -1,11 +1,8 @@
-### Hi there :wave:
+I'm Eugene, backend-developer.
 
-I'm Eugene, fullstack web developer =)
-
-### My skills :muscle:
 Here are some of the major technologies I use or have worked on in the past:
 
-**Languages**
+<!--**Languages**-->
 
 <img title="PHP" alt="PHP" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">|<img title="HTML5" alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"/>|<img title="CSS3" alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"/>
 |--|--|--|--|
